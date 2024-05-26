@@ -1,4 +1,8 @@
 start push git
 commit 1
 commit 2
+<<<<<<< HEAD
 commit 3
+=======
+commit 3
+>>>>>>> bedc029 (commit3)
